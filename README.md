@@ -110,16 +110,7 @@ const niroj = {
 ## <img src="https://img.shields.io/badge/-070406?style=flat" height="1"/> `> github_stats`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NirojPrashath&show_icons=true&count_private=true&hide_border=true&bg_color=070406&title_color=E10600&icon_color=FF3B30&text_color=C9B6B8&ring_color=E10600" alt="stats"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirojPrashath&layout=compact&langs_count=8&hide_border=true&bg_color=070406&title_color=E10600&text_color=C9B6B8" alt="top languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirojPrashath&hide_border=true&background=070406&stroke=2A1416&ring=E10600&fire=FF3B30&currStreakLabel=E10600&sideLabels=C9B6B8&dates=6B5A5C&currStreakNum=F4EEF0&sideNums=F4EEF0" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NirojPrashath&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies"/>
 </p>
 
 <!-- Contribution snake (needs the GitHub Action in SETUP.md) -->
